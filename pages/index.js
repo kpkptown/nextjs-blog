@@ -35,7 +35,7 @@ export default function Home( { allPostsData } ) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p className={UtilStyle.headingMd}>私はmugiです。</p>
+        <p className={UtilStyle.headingMd}>私はmugiです。趣味は昼寝です。</p>
       </section>
       <section>
         <h2>🗒エンジニアのブログ</h2>
